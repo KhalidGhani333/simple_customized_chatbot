@@ -1,5 +1,5 @@
 [project]
-name = "explore-uv"
+name = "simple_customized_chatbot"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -10,7 +10,7 @@ dependencies = [
 ]
 
 [project.scripts]
-explore-uv = "explore_uv:main"
+simple_customized_chatbot = "simple_customized_chatbot:main"
 
 [build-system]
 requires = ["hatchling"]
